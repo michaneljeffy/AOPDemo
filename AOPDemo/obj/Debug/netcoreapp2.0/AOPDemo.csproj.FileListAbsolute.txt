@@ -1,0 +1,11 @@
+E:\Donet Study\AOPDemo\AOPDemo\bin\Debug\netcoreapp2.0\AOPDemo.deps.json
+E:\Donet Study\AOPDemo\AOPDemo\bin\Debug\netcoreapp2.0\AOPDemo.runtimeconfig.json
+E:\Donet Study\AOPDemo\AOPDemo\bin\Debug\netcoreapp2.0\AOPDemo.runtimeconfig.dev.json
+E:\Donet Study\AOPDemo\AOPDemo\bin\Debug\netcoreapp2.0\AOPDemo.dll
+E:\Donet Study\AOPDemo\AOPDemo\obj\Debug\netcoreapp2.0\AOPDemo.csprojResolveAssemblyReference.cache
+E:\Donet Study\AOPDemo\AOPDemo\obj\Debug\netcoreapp2.0\AOPDemo.csproj.CoreCompileInputs.cache
+E:\Donet Study\AOPDemo\AOPDemo\obj\Debug\netcoreapp2.0\AOPDemo.AssemblyInfoInputs.cache
+E:\Donet Study\AOPDemo\AOPDemo\obj\Debug\netcoreapp2.0\AOPDemo.AssemblyInfo.cs
+E:\Donet Study\AOPDemo\AOPDemo\bin\Debug\netcoreapp2.0\AOPDemo.pdb
+E:\Donet Study\AOPDemo\AOPDemo\obj\Debug\netcoreapp2.0\AOPDemo.dll
+E:\Donet Study\AOPDemo\AOPDemo\obj\Debug\netcoreapp2.0\AOPDemo.pdb
